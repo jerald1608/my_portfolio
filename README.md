@@ -1,4 +1,4 @@
 # website
 <p align="left">
-<a href="https://jeraldjesudasan.ml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shridharan_24" height="30" width="40" /></a>
+<a href="https://jeraldjesudasan.ml/" target="blank"><img align="center" src="https://github.com/jerald1608/website/blob/main/assets/img/favicon.png" alt="@jerald1608" height="30" width="40" /></a>
 </p>
